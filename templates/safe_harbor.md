@@ -14,5 +14,6 @@ Please contact us before engaging in conduct that may be inconsistent with or un
 
 ---
 
+**Note:** This safe harbor on its own does _not_ prevent sending notice to a third party about a vulnerability found on their service. There is [separate safe harbor language](safe_harbor_third_party.md) for that which could be dropped in.
 The above safe harbor language is based on Amit Elazari's general academic research in this field, the DOJ guidelines on this issue (which are worth reading but entirely too prosecution-friendly - https://www.justice.gov/criminal-ccips/page/file/983996/download) and leading policies such as [Dropbox's HackerOne terms](https://blogs.dropbox.com/tech/2018/03/protecting-security-researchers/).
 
