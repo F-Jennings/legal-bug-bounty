@@ -2,8 +2,4 @@ As you know, you **CAN’T** grant authorization in the name of third parties or
 
 ## Template third-party disclaimer
 
-> We will not share your report with a third-party without gaining their commitment they will not pursue legal action against you or initiate contact with law enforcement about your report. Please note again that we cannot authorize out-of-scope testing in the name of third parties and such testing is beyond the scope of this policy. Refer to the third party's bug bounty policy, or contact the third party either directly or through a legal representative before intiating any testing on that third party.
-
-## ⚖ Legal disclaimer
-
-**⚠ This is not legal advice! See disclaimer, you must consult your lawyer(s) before using this language.**
+> We will not share your report with a third-party without gaining their commitment they will not pursue legal action against you or initiate contact with law enforcement based on your report. Please note again that we cannot authorize out-of-scope testing in the name of third parties and such testing is beyond the scope of our policy. Refer to that third party's bug bounty policy, if they have one, or contact the third party either directly or through a legal representative before intiating any testing on that third party.
