@@ -1,6 +1,6 @@
 ## Template third-party disclaimer
 
-We will not share your report with a third-party without gaining their commitment they will not pursue legal action against you or initiate contact with law enforcement based on your report. Please note again that we cannot authorize out-of-scope testing in the name of third parties and such testing is beyond the scope of our policy. Refer to that third party's bug bounty policy, if they have one, or contact the third party either directly or through a legal representative before intiating any testing on that third party.
+We will not share your report with a third party without gaining their commitment they will not pursue legal action against you or initiate contact with law enforcement based on your report. Please note again that we cannot authorize out-of-scope testing in the name of third parties and such testing is beyond the scope of our policy. Refer to that third party's bug bounty policy, if they have one, or contact the third party either directly or through a legal representative before intiating any testing on that third party. This is not, and should not be understood as, any agreement on our part to defend, indemnify, or otherwise protect you from any third party action based on your actions.
 
 ---
 
