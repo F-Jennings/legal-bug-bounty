@@ -4,7 +4,7 @@
 
 **Terms:** To encourage responsible disclosure, we will not pursue civil or criminal action, or send notice to law enforcement for accidental or good faith violations of this policy. We consider security research and vulnerability disclosure activities conducted consistent with this policy as “authorized” conduct under the Computer Fraud and Abuse Act, the DMCA, and other applicable computer use laws such as Cal. Penal Code 502(c). We waive any potential DMCA claim against you for circumventing the technological measures we have used to protect the applications in scope.
 
-Please understand that if your security research involves the networks, systems, information, applications, products, or services of another party (which is not us), we cannot bind that third party, and they may pursue legal action or law enforcement notice. We cannot and do not authorize security research in the name of other entities.
+Please understand that if your security research involves the networks, systems, information, applications, products, or services of another party (which is not us), we cannot bind that third party, and they may pursue legal action or law enforcement notice. We cannot and do not authorize security research in the name of other entities, and cannot in any way to defend, indemnify, or otherwise protect you from any third party action based on your actions.
 
 That said, if legal action is initiated by a third party, including law enforcement, against you because of your participating in this bug bounty program, and you have sufficiently complied with our bug bounty policy (i.e. have not made intentional or bad faith violations), we will take steps to make it known that your actions were conducted in compliance with this policy.
 
