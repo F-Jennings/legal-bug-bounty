@@ -1,5 +1,5 @@
 
-To the extent your security research activities are inconsistent with certain restrictions in our `SITE POLICY` but consistent with the terms of our bug bounty program, we waive those restrictions for the limited purpose of permitting your security research under this bug bounty program.
+To the extent your security research activities are inconsistent with certain restrictions in our `SITE POLICY` but consistent with the terms of our bug bounty program, we waive those restrictions for the sole and limited purpose of permitting your security research under this bug bounty program.
 
 ---
 
