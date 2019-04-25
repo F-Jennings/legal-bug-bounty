@@ -29,7 +29,7 @@
 
 * We will keep you updated as we work to fix the bug you submitted.
 
-* We will not intiate or encourage legal action against you if you play by the rules.
+* We will not initiate or encourage legal action against you if you play by the rules.
 
 ### What does not qualify?
 
