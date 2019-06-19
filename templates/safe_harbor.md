@@ -8,7 +8,7 @@ Please understand that if your security research involves the networks, systems,
 
 That said, if legal action is initiated by a third party, including law enforcement, against you because of your participation in this bug bounty program, and you have sufficiently complied with our bug bounty policy (i.e. have not made intentional or bad faith violations), we will take steps to make it known that your actions were conducted in compliance with this policy.
 
-You are expected, as always, to comply with all laws applicable to you, and not to disrupt or compromise any data beyond what this bug bounty program permits.
+You are expected, as always, to comply with all applicable laws, and not to disrupt or compromise any data beyond what this bug bounty program permits.
 
 Please contact us before engaging in conduct that may be inconsistent with or unaddressed by this policy. We reserve the sole right to make the determination of whether a violation of this policy is accidental or in good faith, and proactive contact to us before engaging in any action is a significant factor in that decision. If in doubt, ask us first!
 
